@@ -1,0 +1,39 @@
+Edit Image 1.
+
+Image 1 is the base painting: a night bus seen from outside, one girl behind the centre window, three horizontal amber light streaks across the middle of the picture. Keep its composition, camera, framing, bus body, window frames, curtains, glass tint, the amber light streaks, the colour palette and the brushwork as they are. Change one thing only: the passenger behind the centre window.
+
+Replace the girl in the centre window with the character shown in Image 2 (her name is Wenjing). Image 2 is an identity reference only. Do not copy its rendering style, its clean line art, its glossy shading, its white background or its standing pose.
+
+Image 3 is a close-up of the original girl from Image 1. Use it only to see how this painter draws a head: the shapes, the amount of line, the eyes. Ignore its blur and its low resolution, and do not copy her hat or her hair colour.
+
+Who she is (taken from Image 2):
+- chestnut-brown hair with a parted fringe, a few strands falling between the eyes, and a thin black headband across the top of the head
+- one loose, thick side braid resting in front of the shoulder that is nearer to the viewer, tied near its end with a small green band
+- green eyes
+- a white blouse with a small frilled collar and a short puffed sleeve, and a light-green ribbon bow at the collar
+- a white wired in-ear earphone in her near ear (the ear we can see). Her hair is tucked behind that ear so the small white earbud shows clearly, and its thin white cable hangs down past her jaw and neck and disappears behind the braid and collar. One earbud and one cable only
+- no hat, no scarf, no glasses, no coat, no over-ear headphones
+
+How she sits (the same as the girl in Image 1 and Image 3):
+- the same position and the same size inside the window as the original girl: head and shoulders only, cut off by the window sill
+- three-quarter view turned to the right of the picture, both eyes visible
+- her chin is slightly lifted and she looks out through the glass into the distance, toward the upper right, the way the original girl does
+- she is behind the glass: the amber light streaks pass in front of her chin and shoulder as they do in Image 1, and the glass keeps its dim grey-green tint and its vertical grime strokes over her
+
+Her expression. She has made up her mind and boarded this night ride alone: a little melancholy, but resolved.
+- eyes steady, clear and fixed on the distance; not dreamy, not sleepy, not looking down
+- thin eyebrows drawn very slightly together and level, the quiet tension of someone holding to a decision
+- mouth closed in a short, firm, straight line; no smile, no pout
+- the sadness is only a trace, in the eyes. No tears, no frown, no anger, no blush
+
+How she is drawn. This is the most important part: she must look as if the painter of Image 1 painted her in the same sitting. Match Image 3 point by point.
+- hair: a few large flat colour shapes with only a handful of long strand lines, as in Image 3. No fine strand hatching, no dense parallel hair lines, no glossy hair highlights
+- eyes: large, tall oval irises filled with one flat colour (muted green here), one small white highlight each, a thick dark upper lash line, no lower lashes, no gradient inside the iris, no second highlight
+- face: almost no interior lines. Thin eyebrows, a tiny nose mark and a short mouth line, nothing else. No blush hatching
+- outlines: rough, slightly broken dark ink lines of uneven thickness
+- colour: flat, muted fills with a little dry-brush texture; no smooth gradients, no airbrushed skin
+- skin: the same pale, dull beige-pink as the original girl's skin in Image 3, not orange and not tanned
+- lit only by the dim cabin light and the passing amber light: her white blouse is pulled down into the picture's low-key night palette (grey-green, dull beige), and nothing on her is pure white. The earbud and its cable are the lightest thing on her, an off-white that still sits inside the night palette, drawn as a simple flat shape and one thin line
+- her hair reads as chestnut brown under this light, darker at the top of the head where the cabin is dark
+
+Do not add text, logos, watermarks, signatures or new objects. Do not change the curtains, the neighbouring windows, the light streaks or the bus body. Keep the same 4:3 landscape framing as Image 1.

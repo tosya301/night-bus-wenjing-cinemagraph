@@ -1,0 +1,5 @@
+masks/
+out/
+work/
+__pycache__/
+.DS_Store
